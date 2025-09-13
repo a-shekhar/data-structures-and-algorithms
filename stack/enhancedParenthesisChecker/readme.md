@@ -1,4 +1,4 @@
-## 🧩 Design Tic Tac Toe game 
+## 🧩 Balanced Parenthesis Checker
 
 <p>
   <img alt="Difficulty" src="https://img.shields.io/badge/Difficulty-Easy-2ecc71?style=for-the-badge">

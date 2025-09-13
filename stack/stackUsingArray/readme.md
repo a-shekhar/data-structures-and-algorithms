@@ -1,9 +1,9 @@
-## 🧩 Design Tic Tac Toe game 
+## 🧩 Stack using Array
 
 <p>
   <img alt="Difficulty" src="https://img.shields.io/badge/Difficulty-Easy-2ecc71?style=for-the-badge">
   
-  <img alt="CTCI" src="https://img.shields.io/badge/Source-Elshad kariomov (Stack using Linked List)-1e90ff?style=for-the-badge">
+  <img alt="CTCI" src="https://img.shields.io/badge/Source-Elshad kariomov-1e90ff?style=for-the-badge">
 </p>
 
 **Goal:** Let's give it a try! You have a linked list and must implement the functionalities push and pop of stack using this given linked list. Your task is to use the class as shown in the comments in the code editor and complete the functions push() and pop() to implement a stack. 
