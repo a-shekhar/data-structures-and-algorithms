@@ -14,7 +14,7 @@
   <sub>Sources referenced:</sub><br/>
   <b>Cracking the Coding Interview</b> (Gayle Laakmann McDowell) •
   <b>Data Structures and Algorithms Made Easy</b> (Narasimha Karumanchi) •
-  <b>Master the Coding Interview (Udemy)</b> (Andrei Neagoie)
+  <b>Master the Coding Interview (Udemy)</b> (Andrei Neagoie) •
   <b>Java DSA (Udemy)</b> (Elshad karimov)
 </p>
 
