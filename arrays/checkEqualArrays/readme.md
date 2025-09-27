@@ -1,4 +1,4 @@
-## 🧩 Design Tic Tac Toe game 
+## 🧩 Check If Arrays are Equal 
 
 <p>
   <img alt="Difficulty" src="https://img.shields.io/badge/Difficulty-Easy-2ecc71?style=for-the-badge">
